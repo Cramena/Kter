@@ -1,0 +1,700 @@
+﻿Log file open, 04/26/18 16:03:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SideScoller
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1922143891) SRandInit(-1922143891).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.350455
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Program Files/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.26-14.03.27:899][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.26-14.03.27:899][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.26-14.03.27:922][  0]LogInit: Computer: MSI
+[2018.04.26-14.03.27:922][  0]LogInit: User: Lug
+[2018.04.26-14.03.27:922][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.26-14.03.27:922][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2018.04.26-14.03.27:922][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.26-14.03.27:922][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.26-14.03.27:922][  0]LogMemory: Process Physical Memory: 281.01 MB used, 281.01 MB peak
+[2018.04.26-14.03.27:922][  0]LogMemory: Process Virtual Memory: 287.67 MB used, 287.67 MB peak
+[2018.04.26-14.03.27:922][  0]LogMemory: Physical Memory: 7469.20 MB used,  8802.14 MB free, 16271.34 MB total
+[2018.04.26-14.03.27:922][  0]LogMemory: Virtual Memory: 711.39 MB used,  8802.14 MB free, 134217728.00 MB total
+[2018.04.26-14.03.30:333][  0]LogInit: Using OS detected language (fr-FR).
+[2018.04.26-14.03.30:333][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.04.26-14.03.30:340][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.04.26-14.03.30:342][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.04.26-14.03.32:309][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.26-14.03.32:408][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.04.26-14.03.32:408][  0]LogD3D11RHI:       6084/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.26-14.03.32:425][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.04.26-14.03.32:425][  0]LogD3D11RHI:       128/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.26-14.03.32:430][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.26-14.03.32:430][  0]LogD3D11RHI:       0/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.26-14.03.32:430][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.26-14.03.32:448][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.26-14.03.32:448][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.26-14.03.32:448][  0]LogWindows: EnumDisplayDevices:
+[2018.04.26-14.03.32:449][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.04.26-14.03.32:449][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.26-14.03.32:450][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.26-14.03.32:450][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.04.26-14.03.32:450][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.04.26-14.03.32:450][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.04.26-14.03.32:451][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.04.26-14.03.32:451][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.26-14.03.32:451][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.04.26-14.03.32:451][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.26-14.03.32:451][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.26-14.03.32:451][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.04.26-14.03.32:501][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.26-14.03.32:517][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.26-14.03.32:521][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Intermediate/Shaders/WorkingDirectory/6008/).
+[2018.04.26-14.03.32:521][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lug/AppData/Local/Temp/UnrealShaderWorkingDir/45BB377146BA2E9F97FCFB9DFD41C974/'.
+[2018.04.26-14.03.32:521][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.26-14.03.34:606][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.26-14.03.34:678][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.26-14.03.34:764][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.26-14.03.34:841][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.26-14.03.34:938][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.26-14.03.35:009][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.26-14.03.35:108][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.26-14.03.35:205][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.26-14.03.35:279][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.26-14.03.35:360][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.26-14.03.35:432][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.26-14.03.35:511][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.26-14.03.35:578][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.26-14.03.35:645][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.26-14.03.35:728][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.26-14.03.35:892][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.26-14.03.35:892][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.26-14.03.35:976][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.26-14.03.36:126][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.26-14.03.36:164][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.26-14.03.36:231][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.26-14.03.36:308][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.26-14.03.36:391][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.26-14.03.36:463][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.26-14.03.36:464][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.26-14.03.37:106][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.26-14.03.37:316][  0]LogDerivedDataCache: Loaded boot cache 0.21s 93MB C:/Users/Lug/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.26-14.03.37:316][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lug/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.04.26-14.03.37:317][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Lug/Documents/GitHub/Kter/SideScoller/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.26-14.03.37:317][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.26-14.03.37:317][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Lug/Documents/GitHub/Kter/SideScoller/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.26-14.03.37:317][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.26-14.03.37:340][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.26-14.03.37:352][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lug/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.26-14.03.37:369][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.26-14.03.37:370][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.26-14.03.37:371][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.26-14.03.37:371][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.26-14.03.37:796][  0]LogAssetRegistry: FAssetRegistry took 0.0290 seconds to start up
+[2018.04.26-14.03.38:008][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.26-14.03.38:358][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.04.26-14.03.38:826][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.26-14.03.38:888][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.26-14.03.38:888][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.26-14.03.38:888][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.26-14.03.38:888][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.26-14.03.38:888][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.26-14.03.39:639][  0]LogNetVersion: SideScoller , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3887992840)
+[2018.04.26-14.03.40:022][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.058405 seconds
+[2018.04.26-14.03.40:036][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.04.26-14.03.40:036][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.04.26-14.03.40:036][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.26-14.03.40:120][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.26-14.03.44:375][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.26-14.03.44:422][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.26-14.03.45:324][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.26-14.03.45:922][  0]SourceControl: Source control is disabled
+[2018.04.26-14.03.45:923][  0]SourceControl: Source control is disabled
+[2018.04.26-14.03.45:986][  0]SourceControl: Source control is disabled
+[2018.04.26-14.03.46:048][  0]SourceControl: Source control is disabled
+[2018.04.26-14.03.46:892][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.26-14.03.47:244][  0]LogOcInput: OculusInput pre-init called
+[2018.04.26-14.03.47:618][  0]LogEngine: Initializing Engine...
+[2018.04.26-14.03.47:621][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.26-14.03.48:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.26-14.03.48:039][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.26-14.03.48:298][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.26-14.03.48:394][  0]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.04.26-14.03.48:571][  0]LogInit: FAudioDevice initialized.
+[2018.04.26-14.03.48:701][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB C:/Users/Lug/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.26-14.03.48:743][  0]LogInit: Texture streaming: Enabled
+[2018.04.26-14.03.48:933][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.26-14.03.49:256][  0]LogInit: Transaction tracking system initialized
+[2018.04.26-14.03.49:721][  0]BlueprintLog: New page: Editor Load
+[2018.04.26-14.03.51:001][  0]LocalizationService: Localization service is disabled
+[2018.04.26-14.03.51:746][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.04.26-14.03.51:746][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.04.26-14.03.51:747][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.04.26-14.03.52:022][  0]LogConsoleResponse: Display: 
+[2018.04.26-14.03.52:304][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.26-14.03.52:304][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.26-14.03.52:304][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.26-14.03.52:750][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Content/' took 0.02s
+[2018.04.26-14.03.53:873][  0]SourceControl: Source control is disabled
+[2018.04.26-14.03.53:969][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.26-14.03.54:048][  0]LogSlate: Took 0.002270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.26-14.04.36:851][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.26-14.04.36:854][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.26-14.04.38:894][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.26-14.04.38:900][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.26-14.04.38:917][  0]Cmd: MAP LOAD FILE="C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.26-14.04.38:919][  0]LightingResults: New page: Lighting Build
+[2018.04.26-14.04.39:097][  0]MapCheck: New page: Map Check
+[2018.04.26-14.04.39:098][  0]LightingResults: New page: Lighting Build
+[2018.04.26-14.04.40:357][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.04.26-14.04.40:384][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.26-14.04.40:440][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.26-14.04.40:663][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 222.947ms to complete.
+[2018.04.26-14.04.40:665][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 1.748
+[2018.04.26-14.04.40:943][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_2100_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_2eb4_0///####STATCAT_Advanced####
+[2018.04.26-14.04.40:943][  0]LogCollectionManager: Loaded 0 collections in 0.001578 seconds
+[2018.04.26-14.04.41:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Collections/' took 0.01s
+[2018.04.26-14.04.41:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Content/Developers/Lug/Collections/' took 0.01s
+[2018.04.26-14.04.41:036][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Content/Collections/' took 0.01s
+[2018.04.26-14.04.41:036][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.26-14.04.41:049][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2386 classes and 500 folders.
+[2018.04.26-14.04.41:162][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0024 seconds. Added 0 classes and 0 folders.
+[2018.04.26-14.04.41:239][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.04.26-14.04.41:322][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0017 seconds. Added 2 classes and 3 folders.
+[2018.04.26-14.04.41:394][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.04.26-14.04.41:431][  0]LogSlate: Took 0.000494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.26-14.04.41:441][  0]LogSlate: Took 0.001961 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.26-14.04.41:840][  0]LogRenderer: Reallocating scene render targets to support 1208x592 Format 10 NumSamples 1 (Frame:1).
+[2018.04.26-14.04.42:131][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.04.26-14.04.42:131][  0]LogLoad: (Engine Initialization) Total time: 78.16 seconds
+[2018.04.26-14.04.42:131][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.26-14.04.42:132][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.26-14.04.42:164][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.26-14.04.42:197][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.26-14.04.42:258][  2]LogAssetRegistry: Asset discovery search completed in 64.4851 seconds
+[2018.04.26-14.04.42:263][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.26-14.04.42:263][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000112 seconds (updated 0 objects)
+[2018.04.26-14.04.43:215][ 41]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.26-14.04.53:174][471]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.26-14.04.53:335][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.26-14.04.53:335][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.26-14.04.53:336][471]PIE: New page: PIE session: SideScrollerExampleMap (Apr 26, 2018, 6:04:53 PM)
+[2018.04.26-14.04.53:337][471]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.04.26-14.04.53:368][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031388s)
+[2018.04.26-14.04.53:371][471]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.04.26-14.04.53:372][471]LogPlayLevel: PIE: World Init took: (0.003130s)
+[2018.04.26-14.04.53:372][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.035449s)
+[2018.04.26-14.04.53:456][471]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.04.26-14.04.53:596][471]LogInit: FAudioDevice initialized.
+[2018.04.26-14.04.53:659][471]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.04.26-14.04.53:664][471]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.04.26-16.04.53
+[2018.04.26-14.04.53:665][471]LogWorld: Bringing up level for play took: 0.003183
+[2018.04.26-14.04.53:711][471]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.04.26-14.04.53:712][471]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.116
+[2018.04.26-14.04.53:713][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.26-14.04.54:448][498]LogBlueprintUserMessages: [SideScrollerCharacter_78] Toggle Slow-mo
+[2018.04.26-14.04.54:449][498]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.999762
+[2018.04.26-14.04.54:467][499]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.999074
+[2018.04.26-14.04.54:495][500]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.997475
+[2018.04.26-14.04.54:533][501]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.994135
+[2018.04.26-14.04.54:552][502]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.992126
+[2018.04.26-14.04.54:581][503]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.988323
+[2018.04.26-14.04.54:611][504]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.983609
+[2018.04.26-14.04.54:632][505]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.97964
+[2018.04.26-14.04.54:661][506]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.974089
+[2018.04.26-14.04.54:680][507]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.970181
+[2018.04.26-14.04.54:718][508]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.961057
+[2018.04.26-14.04.54:743][509]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.954851
+[2018.04.26-14.04.54:769][510]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.947213
+[2018.04.26-14.04.54:791][511]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.941429
+[2018.04.26-14.04.54:811][512]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.934893
+[2018.04.26-14.04.54:842][513]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.924748
+[2018.04.26-14.04.54:869][514]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.915772
+[2018.04.26-14.04.54:888][515]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.908992
+[2018.04.26-14.04.54:918][516]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.898022
+[2018.04.26-14.04.54:936][517]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.891139
+[2018.04.26-14.04.54:966][518]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.879315
+[2018.04.26-14.04.54:989][519]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.871395
+[2018.04.26-14.04.55:016][520]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.859543
+[2018.04.26-14.04.55:043][521]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.847725
+[2018.04.26-14.04.55:062][522]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.839125
+[2018.04.26-14.04.55:093][523]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.825613
+[2018.04.26-14.04.55:112][524]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.817281
+[2018.04.26-14.04.55:141][525]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.804224
+[2018.04.26-14.04.55:169][526]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.791274
+[2018.04.26-14.04.55:196][527]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.780746
+[2018.04.26-14.04.55:216][528]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.770568
+[2018.04.26-14.04.55:243][529]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.75733
+[2018.04.26-14.04.55:266][530]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.748384
+[2018.04.26-14.04.55:292][531]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.734897
+[2018.04.26-14.04.55:309][532]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.727088
+[2018.04.26-14.04.55:336][533]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.715157
+[2018.04.26-14.04.55:358][534]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.70662
+[2018.04.26-14.04.55:385][535]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.69324
+[2018.04.26-14.04.55:401][536]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.686292
+[2018.04.26-14.04.55:427][537]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.675326
+[2018.04.26-14.04.55:443][538]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.668765
+[2018.04.26-14.04.55:475][539]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.655551
+[2018.04.26-14.04.55:501][540]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.645618
+[2018.04.26-14.04.55:515][541]LogBlueprintUserMessages: [SideScrollerCharacter_78] Toggle Slow-mo
+[2018.04.26-14.04.55:516][541]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.650199
+[2018.04.26-14.04.55:543][542]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.661989
+[2018.04.26-14.04.55:557][543]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.667789
+[2018.04.26-14.04.55:585][544]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.678886
+[2018.04.26-14.04.55:610][545]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.688482
+[2018.04.26-14.04.55:634][546]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.69958
+[2018.04.26-14.04.55:659][547]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.710705
+[2018.04.26-14.04.55:671][548]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.715247
+[2018.04.26-14.04.55:700][549]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.727961
+[2018.04.26-14.04.55:712][550]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.733687
+[2018.04.26-14.04.55:744][551]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.747426
+[2018.04.26-14.04.55:772][552]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.760042
+[2018.04.26-14.04.55:798][553]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.770867
+[2018.04.26-14.04.55:816][554]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.778318
+[2018.04.26-14.04.55:841][555]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.790149
+[2018.04.26-14.04.55:867][556]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.801467
+[2018.04.26-14.04.55:891][557]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.8116
+[2018.04.26-14.04.55:923][558]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.824838
+[2018.04.26-14.04.55:942][559]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.832107
+[2018.04.26-14.04.55:974][560]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.846666
+[2018.04.26-14.04.55:998][561]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.856123
+[2018.04.26-14.04.56:024][562]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.866055
+[2018.04.26-14.04.56:047][563]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.875525
+[2018.04.26-14.04.56:073][564]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.884605
+[2018.04.26-14.04.56:099][565]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.893938
+[2018.04.26-14.04.56:126][566]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.903979
+[2018.04.26-14.04.56:158][567]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.914209
+[2018.04.26-14.04.56:196][568]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.926011
+[2018.04.26-14.04.56:220][569]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.933409
+[2018.04.26-14.04.56:248][570]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.941492
+[2018.04.26-14.04.56:272][571]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.948234
+[2018.04.26-14.04.56:297][572]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.95315
+[2018.04.26-14.04.56:328][573]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.961942
+[2018.04.26-14.04.56:355][574]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.967657
+[2018.04.26-14.04.56:374][575]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.971896
+[2018.04.26-14.04.56:400][576]LogBlueprintUserMessages: [SideScrollerCharacter_78] 0.97491
+[2018.04.26-14.04.56:406][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.26-14.04.56:469][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.26-14.05.25:066][651]LogAIModule: Creating AISystem for world SlowMoLevel
+[2018.04.26-14.05.37:762][ 73]LogSlate: Took 0.000476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.26-14.05.37:860][ 73]LogMaterial: Missing cached shader map for material M_Basic_Wall_Unlit, compiling. 
+[2018.04.26-14.05.38:096][ 73]LogAIModule: Creating AISystem for world LEVEL_TEST
+[2018.04.26-14.05.38:196][ 73]Cmd: MAP LOAD FILE="C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Content/SideScrollerBP/Maps/LEVEL_TEST.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.26-14.05.38:196][ 73]LightingResults: New page: Lighting Build
+[2018.04.26-14.05.38:199][ 73]LoadErrors: New page: Loading map: LEVEL_TEST.umap
+[2018.04.26-14.05.38:207][ 73]MapCheck: New page: Map Check
+[2018.04.26-14.05.38:207][ 73]LightingResults: New page: Lighting Build
+[2018.04.26-14.05.38:409][ 73]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.26-14.05.38:520][ 73]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.26-14.05.38:625][ 73]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104.446ms to complete.
+[2018.04.26-14.05.38:627][ 73]LogFileHelpers: Loading map 'LEVEL_TEST' took 0.434
+[2018.04.26-14.05.40:991][178]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.26-14.05.41:038][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST' with GeneratedClass '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST'
+[2018.04.26-14.05.41:038][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.26-14.05.41:039][178]PIE: New page: PIE session: LEVEL_TEST (Apr 26, 2018, 6:05:41 PM)
+[2018.04.26-14.05.41:039][178]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LEVEL_TEST
+[2018.04.26-14.05.41:081][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041439s)
+[2018.04.26-14.05.41:083][178]LogAIModule: Creating AISystem for world LEVEL_TEST
+[2018.04.26-14.05.41:083][178]LogPlayLevel: PIE: World Init took: (0.001762s)
+[2018.04.26-14.05.41:084][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST to /Game/SideScrollerBP/Maps/UEDPIE_0_LEVEL_TEST.LEVEL_TEST (0.043997s)
+[2018.04.26-14.05.41:188][178]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.04.26-14.05.41:384][178]LogInit: FAudioDevice initialized.
+[2018.04.26-14.05.41:431][178]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.04.26-14.05.41:438][178]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LEVEL_TEST.LEVEL_TEST up for play (max tick rate 0) at 2018.04.26-16.05.41
+[2018.04.26-14.05.41:439][178]LogWorld: Bringing up level for play took: 0.007150
+[2018.04.26-14.05.41:442][178]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LEVEL_TEST -0.386
+[2018.04.26-14.05.41:444][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST' with GeneratedClass '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST'
+[2018.04.26-14.05.47:000][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST' with GeneratedClass '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST'
+[2018.04.26-14.05.47:056][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST' with GeneratedClass '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST'
+[2018.04.26-14.05.56:722][627]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{03a310e9-c48b-453e-8394-0eaa8ee4dc8e} was removed. Shutting down audio device.
+[2018.04.26-14.06.25:199][934]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.26-14.06.25:246][934]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST' with GeneratedClass '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST'
+[2018.04.26-14.06.25:247][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.26-14.06.25:247][934]PIE: New page: PIE session: LEVEL_TEST (Apr 26, 2018, 6:06:25 PM)
+[2018.04.26-14.06.25:247][934]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LEVEL_TEST
+[2018.04.26-14.06.25:287][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039347s)
+[2018.04.26-14.06.25:289][934]LogAIModule: Creating AISystem for world LEVEL_TEST
+[2018.04.26-14.06.25:289][934]LogPlayLevel: PIE: World Init took: (0.002630s)
+[2018.04.26-14.06.25:290][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST to /Game/SideScrollerBP/Maps/UEDPIE_0_LEVEL_TEST.LEVEL_TEST (0.042757s)
+[2018.04.26-14.06.25:393][934]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.04.26-14.06.25:571][934]LogInit: FAudioDevice initialized.
+[2018.04.26-14.06.25:614][934]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.04.26-14.06.25:619][934]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LEVEL_TEST.LEVEL_TEST up for play (max tick rate 0) at 2018.04.26-16.06.25
+[2018.04.26-14.06.25:620][934]LogWorld: Bringing up level for play took: 0.004806
+[2018.04.26-14.06.25:624][934]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_LEVEL_TEST -0.205
+[2018.04.26-14.06.25:624][934]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST' with GeneratedClass '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST'
+[2018.04.26-14.06.40:060][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST' with GeneratedClass '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST'
+[2018.04.26-14.06.40:132][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST' with GeneratedClass '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/LEVEL_TEST.LEVEL_TEST:PersistentLevel.LEVEL_TEST'
+[2018.04.26-14.08.11:593][ 86]LogAIModule: Creating AISystem for world Level_Alessandro
+[2018.04.26-14.08.11:612][ 86]Cmd: MAP LOAD FILE="C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Content/SideScrollerBP/Maps/Level_Alessandro.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.26-14.08.11:612][ 86]LightingResults: New page: Lighting Build
+[2018.04.26-14.08.11:613][ 86]LoadErrors: New page: Loading map: Level_Alessandro.umap
+[2018.04.26-14.08.11:614][ 86]MapCheck: New page: Map Check
+[2018.04.26-14.08.11:614][ 86]LightingResults: New page: Lighting Build
+[2018.04.26-14.08.11:718][ 86]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.26-14.08.11:772][ 86]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.26-14.08.11:828][ 86]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.089ms to complete.
+[2018.04.26-14.08.11:829][ 86]LogFileHelpers: Loading map 'Level_Alessandro' took 0.217
+[2018.04.26-14.09.04:907][667]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.26-14.09.07:358][773]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2018.04.26-14.09.08:250][773]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.26-14.09.08:676][774]LogSlate: Took 0.000871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.26-14.10.00:124][895]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2018.04.26-14.10.00:152][895]LogBlueprint: Warning: [SideScrollerCharacter] 'RespawnTransformPlayer' variable not found. Base class was probably changed.
+[2018.04.26-14.10.00:152][895]LogBlueprint: Warning: [SideScrollerCharacter] 'RespawnTransformPlayer' variable not found. Base class was probably changed.
+[2018.04.26-14.10.00:152][895]LogBlueprint: Warning: [SideScrollerCharacter] 'Game mode' variable not found. Base class was probably changed.
+[2018.04.26-14.10.00:152][895]LogBlueprint: Warning: [SideScrollerCharacter] 'Game mode' variable not found. Base class was probably changed.
+[2018.04.26-14.10.00:152][895]LogBlueprint: Warning: [SideScrollerCharacter] 'Game mode' variable not found. Base class was probably changed.
+[2018.04.26-14.12.56:175][266]LogRenderer: Reallocating scene render targets to support 1208x804 Format 10 NumSamples 1 (Frame:1).
+[2018.04.26-14.14.22:022][249]BlueprintLog: New page: Compile BP_Grid
+[2018.04.26-14.14.37:388][110]LogLinker: Can't find file '/Game/SideScrollerBP/BP_Grille'
+[2018.04.26-14.14.37:389][110]LogLinker: Can't find file '/Game/SideScrollerBP/BP_Grille'
+[2018.04.26-14.14.37:403][110]LogBlueprint: Warning: [BP_Grid] 'Contact Grille' variable not found. Base class was probably changed.
+[2018.04.26-14.14.37:403][110]LogBlueprint: Warning: [BP_Grid] 'Contact Grille' variable not found. Base class was probably changed.
+[2018.04.26-14.14.37:403][110]LogBlueprint: Warning: [BP_Grid] 'Contact Grille' variable not found. Base class was probably changed.
+[2018.04.26-14.14.37:403][110]LogBlueprint: Warning: [BP_Grid] 'Contact Grille' variable not found. Base class was probably changed.
+[2018.04.26-14.14.37:403][110]LogBlueprint: Warning: [BP_Grid] 'GrilleCollisionOff' variable not found. Base class was probably changed.
+[2018.04.26-14.14.45:022][584]BlueprintLog: New page: Compile BP_Grid
+[2018.04.26-14.14.45:040][584]LogBlueprint: Warning: [Compiler BP_Grid] Could not find a variable named "Contact Grille" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Set Contact Grille
+[2018.04.26-14.14.45:041][584]LogBlueprint: Warning: [Compiler BP_Grid] Could not find a variable named "Contact Grille" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Set Contact Grille
+[2018.04.26-14.14.45:139][584]LogBlueprint: Error: [Compiler BP_Grid] The property associated with  Contact Grille  could not be found
+[2018.04.26-14.14.45:139][584]LogBlueprint: Error: [Compiler BP_Grid] The property associated with  Contact Grille  could not be found
+[2018.04.26-14.14.45:277][584]LogBlueprint: Warning: [Compiler BP_Grid] [0681.31] Compile of BP_Grid failed. 2 Fatal Issue(s) 2 Warning(s) [in 254 ms] (/Game/SideScrollerBP/BP_Grid.BP_Grid)
+[2018.04.26-14.14.59:642][118]LogBlueprint: Warning: [SideScrollerCharacter] 'ContactPic' variable not found. Base class was probably changed.
+[2018.04.26-14.14.59:642][118]LogBlueprint: Warning: [SideScrollerCharacter] 'CheckLittle' variable not found. Base class was probably changed.
+[2018.04.26-14.14.59:642][118]LogBlueprint: Warning: [SideScrollerCharacter] 'Contact Grille' variable not found. Base class was probably changed.
+[2018.04.26-14.14.59:642][118]LogBlueprint: Warning: [SideScrollerCharacter] 'CheckLittle' variable not found. Base class was probably changed.
+[2018.04.26-14.14.59:642][118]LogBlueprint: Warning: [SideScrollerCharacter] 'GrilleCollisionOff' variable not found. Base class was probably changed.
+[2018.04.26-14.14.59:642][118]LogBlueprint: Warning: [SideScrollerCharacter] 'GrilleCollisionOff' variable not found. Base class was probably changed.
+[2018.04.26-14.14.59:643][118]LogBlueprint: Warning: [SideScrollerCharacter] 'GrilleCollisionOff' variable not found. Base class was probably changed.
+[2018.04.26-14.14.59:643][118]LogBlueprint: Warning: [SideScrollerCharacter] 'GrilleCollisionOff' variable not found. Base class was probably changed.
+[2018.04.26-14.14.59:643][118]LogBlueprint: Warning: [SideScrollerCharacter] 'CheckBig' variable not found. Base class was probably changed.
+[2018.04.26-14.14.59:643][118]LogBlueprint: Warning: [SideScrollerCharacter] 'ContactPlateformDestructible' variable not found. Base class was probably changed.
+[2018.04.26-14.14.59:643][118]LogBlueprint: Warning: [SideScrollerCharacter] 'DetruirePlateform' variable not found. Base class was probably changed.
+[2018.04.26-14.14.59:643][118]LogBlueprint: Warning: [SideScrollerCharacter] 'DetruirePlateform' variable not found. Base class was probably changed.
+[2018.04.26-14.15.03:513][387]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.04.26-14.15.03:648][387]LogBlueprint: Warning: [BP_Grid] 'Contact Grille' variable not found. Base class was probably changed.
+[2018.04.26-14.15.03:648][387]LogBlueprint: Warning: [BP_Grid] 'Contact Grille' variable not found. Base class was probably changed.
+[2018.04.26-14.15.03:648][387]LogBlueprint: Warning: [BP_Grid] 'Contact Grille' variable not found. Base class was probably changed.
+[2018.04.26-14.15.03:648][387]LogBlueprint: Warning: [BP_Grid] 'Contact Grille' variable not found. Base class was probably changed.
+[2018.04.26-14.15.03:649][387]LogBlueprint: Warning: [BP_Grid] 'GrilleCollisionOff' variable not found. Base class was probably changed.
+[2018.04.26-14.15.03:675][387]LogBlueprint: Warning: [Compiler BP_Grid] Could not find a variable named "Contact Grille" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Set Contact Grille
+[2018.04.26-14.15.03:675][387]LogBlueprint: Warning: [Compiler BP_Grid] Could not find a variable named "Contact Grille" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Set Contact Grille
+[2018.04.26-14.15.03:681][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "DetruirePlateform" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Set DetruirePlateform
+[2018.04.26-14.15.03:682][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "ContactPlateformDestructible" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Get ContactPlateformDestructible
+[2018.04.26-14.15.03:682][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "CheckBig" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Get CheckBig
+[2018.04.26-14.15.03:682][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "GrilleCollisionOff" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Set GrilleCollisionOff
+[2018.04.26-14.15.03:682][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "GrilleCollisionOff" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Set GrilleCollisionOff
+[2018.04.26-14.15.03:682][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "CheckLittle" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Get CheckLittle
+[2018.04.26-14.15.03:682][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "Contact Grille" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Get Contact Grille
+[2018.04.26-14.15.03:682][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "CheckLittle" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Get CheckLittle
+[2018.04.26-14.15.03:682][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "ContactPic" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Get ContactPic
+[2018.04.26-14.15.03:682][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "Game mode" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Set Game mode
+[2018.04.26-14.15.03:683][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "RespawnTransformPlayer" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set RespawnTransformPlayer
+[2018.04.26-14.15.03:685][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] This blueprint (self) is not a SideScrollerGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.26-14.15.03:687][387]LogBlueprint: Error: [Compiler BP_Grid] The property associated with  Contact Grille  could not be found
+[2018.04.26-14.15.03:687][387]LogBlueprint: Error: [Compiler BP_Grid] The property associated with  Contact Grille  could not be found
+[2018.04.26-14.15.03:688][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] Variable node  Set RespawnTransformPlayer  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.04.26-14.15.03:688][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Respawn Transform Player  could not be found
+[2018.04.26-14.15.03:688][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Game Mode  could not be found
+[2018.04.26-14.15.03:688][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Contact Pic  could not be found
+[2018.04.26-14.15.03:688][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Check Little  could not be found
+[2018.04.26-14.15.03:688][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Contact Grille  could not be found
+[2018.04.26-14.15.03:688][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Check Little  could not be found
+[2018.04.26-14.15.03:688][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Grille Collision Off  could not be found
+[2018.04.26-14.15.03:688][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Grille Collision Off  could not be found
+[2018.04.26-14.15.03:688][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Check Big  could not be found
+[2018.04.26-14.15.03:689][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Contact Plateform Destructible  could not be found
+[2018.04.26-14.15.03:689][387]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Detruire Plateform  could not be found
+[2018.04.26-14.15.03:695][387]LogBlueprint: Warning: [Compiler BP_Grid] [0699.72] Compile of BP_Grid failed. 2 Fatal Issue(s) 2 Warning(s) [in 158 ms] (/Game/SideScrollerBP/BP_Grid.BP_Grid)
+[2018.04.26-14.15.04:128][387]LogBlueprint: Warning: [Compiler SideScrollerCharacter] [0700.16] Compile of SideScrollerCharacter failed. 13 Fatal Issue(s) 11 Warning(s) [in 614 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2018.04.26-14.17.15:459][579]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.04.26-14.17.15:545][579]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "Game mode" in 'SideScrollerCharacter_C'.
+Make sure 'SideScrollerCharacter_C' has been compiled for  Set Game mode
+[2018.04.26-14.17.15:545][579]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "RespawnTransformPlayer" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set RespawnTransformPlayer
+[2018.04.26-14.17.15:548][579]LogBlueprint: Error: [Compiler SideScrollerCharacter] This blueprint (self) is not a SideScrollerGameMode_C, therefore ' Target ' must have a connection.
+[2018.04.26-14.17.15:552][579]LogBlueprint: Error: [Compiler SideScrollerCharacter] Variable node  Set RespawnTransformPlayer  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.04.26-14.17.15:552][579]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Respawn Transform Player  could not be found
+[2018.04.26-14.17.15:552][579]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Game Mode  could not be found
+[2018.04.26-14.17.16:073][579]LogBlueprint: Warning: [Compiler SideScrollerCharacter] [0832.10] Compile of SideScrollerCharacter failed. 4 Fatal Issue(s) 2 Warning(s) [in 613 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2018.04.26-14.17.42:448][170]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.26-14.17.52:300][890]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.04.26-14.17.52:371][890]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "RespawnTransformPlayer" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set RespawnTransformPlayer
+[2018.04.26-14.17.52:375][890]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Respawn Transform Player  could not be found
+[2018.04.26-14.17.52:958][890]LogBlueprint: Warning: [Compiler SideScrollerCharacter] [0868.99] Compile of SideScrollerCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 657 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2018.04.26-14.18.25:129][800]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.04.26-14.18.25:198][800]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "RespawnTransformPlayer" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set RespawnTransformPlayer
+[2018.04.26-14.18.25:201][800]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Respawn Transform Player  could not be found
+[2018.04.26-14.18.25:740][800]LogBlueprint: Warning: [Compiler SideScrollerCharacter] [0901.77] Compile of SideScrollerCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 610 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2018.04.26-14.18.55:898][147]BlueprintLog: New page: Compile BP_Grid
+[2018.04.26-14.19.13:734][657]BlueprintLog: New page: Compile BP_Grid
+[2018.04.26-14.21.49:391][236]BlueprintLog: New page: Compile Bp_Missil
+[2018.04.26-14.22.15:944][494]LogSavePackage: Save=163.32ms
+[2018.04.26-14.22.15:944][494]LogSavePackage: Moving 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Level_Alessandro_Auto1C61822A44362482049A43080A7CFA0C5.tmp' to 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Maps/Level_Alessandro_Auto1.umap'
+[2018.04.26-14.22.15:948][494]LogSavePackage: Display: Finished SavePackage C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Maps/Level_Alessandro_Auto1.umap
+[2018.04.26-14.22.15:972][494]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/Level_Alessandro' took 0.807
+[2018.04.26-14.22.15:972][494]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.807
+[2018.04.26-14.22.15:989][494]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2018.04.26-14.22.16:021][494]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2018.04.26-14.22.16:021][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2018.04.26-14.22.16:247][494]LogSavePackage: Save=213.23ms
+[2018.04.26-14.22.16:248][494]LogSavePackage: Moving 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/SideScrollerCharacter_Auto196ACACD64A32E6CF8499FE8E61CEB1FC.tmp' to 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto1.uasset'
+[2018.04.26-14.22.16:250][494]LogSavePackage: Display: Finished SavePackage C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto1.uasset
+[2018.04.26-14.22.16:250][494]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/BP_Grid] ([1] browsable assets)...
+[2018.04.26-14.22.16:272][494]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/BP_Grid.BP_Grid]
+[2018.04.26-14.22.16:272][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/BP_Grid]
+[2018.04.26-14.22.16:272][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/BP_Grid" FILE="C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/BP_Grid_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.26-14.22.16:330][494]LogSavePackage: Save=56.26ms
+[2018.04.26-14.22.16:330][494]LogSavePackage: Moving 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/BP_Grid_Auto10ABF7D5048931FFC20B4DABA67EF9DD7.tmp' to 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/BP_Grid_Auto1.uasset'
+[2018.04.26-14.22.16:331][494]LogSavePackage: Display: Finished SavePackage C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/BP_Grid_Auto1.uasset
+[2018.04.26-14.22.16:332][494]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Bp_Missil] ([1] browsable assets)...
+[2018.04.26-14.22.16:354][494]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Bp_Missil.Bp_Missil]
+[2018.04.26-14.22.16:354][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Bp_Missil]
+[2018.04.26-14.22.16:354][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Bp_Missil" FILE="C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Bp_Missil_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.26-14.22.16:382][494]LogSavePackage: Save=26.13ms
+[2018.04.26-14.22.16:382][494]LogSavePackage: Moving 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Bp_Missil_Auto1C32BDCD143C2EC0EB13C03BC2C562862.tmp' to 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Bp_Missil_Auto1.uasset'
+[2018.04.26-14.22.16:384][494]LogSavePackage: Display: Finished SavePackage C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Bp_Missil_Auto1.uasset
+[2018.04.26-14.22.16:384][494]LogFileHelpers: Auto-saving content packages took 0.397
+[2018.04.26-14.23.18:033][930]BlueprintLog: New page: Compile Bp_Missil
+[2018.04.26-14.23.35:038][203]BlueprintLog: New page: Compile Bp_Missil
+[2018.04.26-14.27.16:723][511]LogBlueprint: Warning: [SideScrollerGameMode] 'RespawnTransformPlayer' variable not found. Base class was probably changed.
+[2018.04.26-14.28.25:090][985]BlueprintLog: New page: Compile SideScrollerGameMode
+[2018.04.26-14.28.25:158][985]LogBlueprint: Warning: [SideScrollerCharacter] 'RespawnTransformPlayer' variable not found. Base class was probably changed.
+[2018.04.26-14.28.25:159][985]LogBlueprint: Warning: [SideScrollerCharacter] 'RespawnTransformPlayer' variable not found. Base class was probably changed.
+[2018.04.26-14.28.25:191][985]LogBlueprint: Warning: [Compiler SideScrollerCharacter] Could not find a variable named "RespawnTransformPlayer" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Set RespawnTransformPlayer
+[2018.04.26-14.28.25:196][985]LogBlueprint: Warning: [Compiler SideScrollerGameMode] Could not find a variable named "RespawnTransformPlayer" in 'SideScrollerGameMode_C'.
+Make sure 'SideScrollerGameMode_C' has been compiled for  Get RespawnTransformPlayer
+[2018.04.26-14.28.25:197][985]LogBlueprint: Error: [Compiler SideScrollerCharacter] The property associated with  Respawn Transform Player  could not be found
+[2018.04.26-14.28.25:201][985]LogBlueprint: Error: [Compiler SideScrollerGameMode] The property associated with  Respawn Transform Player  could not be found
+[2018.04.26-14.28.25:235][985]LogBlueprint: Warning: [Compiler SideScrollerCharacter] [1501.27] Compile of SideScrollerCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 138 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2018.04.26-14.28.25:749][985]LogBlueprint: Warning: [Compiler SideScrollerGameMode] [1501.78] Compile of SideScrollerGameMode failed. 1 Fatal Issue(s) 1 Warning(s) [in 657 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode)
+[2018.04.26-14.28.56:255][816]BlueprintLog: New page: Compile SideScrollerGameMode
+[2018.04.26-14.28.56:896][817]BlueprintLog: New page: Compile SideScrollerGameMode
+[2018.04.26-14.29.16:201][253]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.04.26-14.30.04:423][874]BlueprintLog: New page: Compile Bp_Missil
+[2018.04.26-14.30.17:230][940]BlueprintLog: New page: Compile Bp_Missil
+[2018.04.26-14.30.24:508][188]BlueprintLog: New page: Compile BP_Grid
+[2018.04.26-14.30.25:339][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/BP_Grid" FILE="C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Content/SideScrollerBP/BP_Grid.uasset" SILENT=true
+[2018.04.26-14.30.25:385][226]LogSavePackage: Save=43.53ms
+[2018.04.26-14.30.25:385][226]LogSavePackage: Moving 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/BP_Grid7E3A3E7B46282411691ECD9727991E11.tmp' to 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Content/SideScrollerBP/BP_Grid.uasset'
+[2018.04.26-14.30.25:390][226]LogSavePackage: Display: Finished SavePackage C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Content/SideScrollerBP/BP_Grid.uasset
+[2018.04.26-14.31.46:617][817]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.04.26-14.32.44:366][316]LogSavePackage: Save=72.14ms
+[2018.04.26-14.32.44:366][316]LogSavePackage: Moving 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Level_Alessandro_Auto2530E2D1344124EBACC6BEB8D2D4195F8.tmp' to 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Maps/Level_Alessandro_Auto2.umap'
+[2018.04.26-14.32.44:369][316]LogSavePackage: Display: Finished SavePackage C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Maps/Level_Alessandro_Auto2.umap
+[2018.04.26-14.32.44:371][316]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/Level_Alessandro' took 0.126
+[2018.04.26-14.32.44:371][316]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.126
+[2018.04.26-14.32.44:374][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2018.04.26-14.32.44:394][316]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2018.04.26-14.32.44:394][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2018.04.26-14.32.44:589][316]LogSavePackage: Save=186.22ms
+[2018.04.26-14.32.44:589][316]LogSavePackage: Moving 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/SideScrollerCharacter_Auto2154944D844684DA0225C26B206C0DF1B.tmp' to 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto2.uasset'
+[2018.04.26-14.32.44:592][316]LogSavePackage: Display: Finished SavePackage C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto2.uasset
+[2018.04.26-14.32.44:593][316]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerGameMode] ([1] browsable assets)...
+[2018.04.26-14.32.44:593][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerGameMode]
+[2018.04.26-14.32.44:628][316]LogSavePackage: Save=22.39ms
+[2018.04.26-14.32.44:628][316]LogSavePackage: Moving 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/SideScrollerGameMode_Auto24B9E4B1F461B125669BB99B780C6D1E1.tmp' to 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerGameMode_Auto2.uasset'
+[2018.04.26-14.32.44:630][316]LogSavePackage: Display: Finished SavePackage C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerGameMode_Auto2.uasset
+[2018.04.26-14.32.44:631][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Bp_Missil] ([1] browsable assets)...
+[2018.04.26-14.32.44:651][316]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Bp_Missil.Bp_Missil]
+[2018.04.26-14.32.44:651][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Bp_Missil]
+[2018.04.26-14.32.44:651][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Bp_Missil" FILE="C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Bp_Missil_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.04.26-14.32.44:688][316]LogSavePackage: Save=34.47ms
+[2018.04.26-14.32.44:688][316]LogSavePackage: Moving 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Bp_Missil_Auto278E0E3964732E350261D2799AF77289D.tmp' to 'C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Bp_Missil_Auto2.uasset'
+[2018.04.26-14.32.44:690][316]LogSavePackage: Display: Finished SavePackage C:/Users/Lug/Documents/GitHub/Kter/SideScoller/Saved/Autosaves/Game/SideScrollerBP/Bp_Missil_Auto2.uasset
+[2018.04.26-14.32.44:690][316]LogFileHelpers: Auto-saving content packages took 0.318
+[2018.04.26-14.33.20:105][486]LogEditorTransaction: Undo Move Nodes
+[2018.04.26-14.34.22:979][737]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.04.26-14.36.37:091][236]LogEditorTransaction: Undo Set actor scale
+[2018.04.26-14.36.37:751][236]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.561 s
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: 
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: 
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: Stack: 
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007C623E36
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007C3AC2D2
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007C3C4746
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006FA94352
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006FA4305F
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x0000000068CF7AFE
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x0000000068CE3EF9
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x0000000068C8619B
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x0000000068C8AF77
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B8B9E90
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B8AEBC1
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B87D857
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B87FA27
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B91A227
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B73725A
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B737D7D
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B6D6E74
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006ECA7D34
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006E90B039
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006E898DBC
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006E89DABC
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006EC8FEB9
+[2018.04.26-14.36.37:751][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006EC3193B
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006EC3560A
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006EC33937
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006EC95C3C
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006E844400
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006E8C652D
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006E91759D
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006FA43D06
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006FA6A552
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006FA52FD9
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006FA5390B
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006FAB6D6B
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006FAFDE3F
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006E899451
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000006E89E1B6
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B6D7DD0
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B716850
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000070294FAE
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007028096F
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B6C4761
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B6960BE
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B697CC6
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B7180B7
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000007B709B18
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007C5FB498
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007C5E3EE1
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007C5FD5BB
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007C5DF042
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: USER32.dll!0x00000000D01EB85D
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: USER32.dll!0x00000000D01EB1EF
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007C5FDCC6
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor.exe!0x000000008D094BE2
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor.exe!0x000000008D0A3970
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor.exe!0x000000008D0A39EA
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor.exe!0x000000008D0B02D9
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: UE4Editor.exe!0x000000008D0B1C47
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: KERNEL32.DLL!0x00000000CF8D1FE4
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: ntdll.dll!0x00000000D213F061
+[2018.04.26-14.36.37:752][236]LogOutputDevice: Error: 
+[2018.04.26-14.36.37:758][236]LogStats:                SubmitErrorReport -  0.000 s
